@@ -1,0 +1,30 @@
+# Rust
+/target/
+**/*.rs.bk
+# Note: Cargo.lock should be committed for applications (not libraries)
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config (contains API keys)
+.config/
+~/.config/scry/
+
+# Build artifacts
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Debug
+*.pdb
+
