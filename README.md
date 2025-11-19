@@ -1,6 +1,6 @@
 # scry
 
-![scry logo](https://github.com/williamkehl/scry)
+![scry screenshot](scry_screenshot.png)
 
 CI Build Status | License: Unlicense
 
